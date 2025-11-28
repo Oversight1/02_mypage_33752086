@@ -3,7 +3,7 @@ const port = 8000;
 
 http.createServer((req, res) => {
     res.writeHead(200, { 'Content-Type': 'text/plain' });
-    res.end('Hello World, test--change\n');
+    res.end('Hello World\n');
 }).listen(port, function() {
     console.log(`Server running at http://localhost:${port}/`);
 });
