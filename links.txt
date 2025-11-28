@@ -1,0 +1,12 @@
+https://www2.doc.gold.ac.uk/dept/Intranet
+
+Server ID: 315
+SSH: 2315
+WWW: 8315
+USR: 58315
+tto001 -- Username
+MasterKey* -- Passcode
+http://www.doc.gold.ac.uk/ssh/ID/ 
+http://www.doc.gold.ac.uk/ssh/315/
+https://github.com/Oversight1/02_mypage_33752086/
+home: http://www.doc.gold.ac.uk/usr/315/
